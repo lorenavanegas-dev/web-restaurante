@@ -12,3 +12,6 @@ general,secciones básicas y diseño limpio.
 ## Nota
 Todos los datos utilizados en este proyecto son ficticios y solo
 con fines demostrativos.
+
+## DEMO
+ https://lorenavanegas-dev.github.io/web-restaurante/
